@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Subway",
+  "base_artist": "Chappell Roan",
+  "createdAt": "2025-12-23T17:10:34.881403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Down In The Subway",
+      "artist": "Soft Cell",
+      "has_synced": true,
+      "path": "select/01_Down_In_The_Subway_Soft_Cell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Five Blocks To The Subway",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/02_Five_Blocks_To_The_Subway_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From the Subway Train",
+      "artist": "Vansire",
+      "has_synced": true,
+      "path": "select/03_From_the_Subway_Train_Vansire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Sleep in the Subway",
+      "artist": "Petula Clark",
+      "has_synced": true,
+      "path": "select/04_Don't_Sleep_in_the_Subway_Petula_Clark.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Down In The Subway",
+      "artist": "Soft Cell",
+      "has_synced": true,
+      "path": "select/05_Down_In_The_Subway_Soft_Cell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Down In The Subway - Live At Hammersmith Palais / Fan Recording",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/06_Down_In_The_Subway_-_Live_At_Hammersmith_Palais___Fan_Recording_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Down In The Subway (Live)",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/07_Down_In_The_Subway_(Live)_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Sleep In the Subway Darling",
+      "artist": "Petula Clark",
+      "has_synced": false,
+      "path": "select/08_Don't_Sleep_In_the_Subway_Darling_Petula_Clark.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Sleep In The Subway",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/09_Don't_Sleep_In_The_Subway_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Sleep in the Subway",
+      "artist": "Petula Clark",
+      "has_synced": true,
+      "path": "select/10_Don't_Sleep_in_the_Subway_Petula_Clark.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From the Subway Train (Extended Version)",
+      "artist": "Vansire",
+      "has_synced": false,
+      "path": "select/11_From_the_Subway_Train_(Extended_Version)_Vansire.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don’t Sleep In the Subway",
+      "artist": "Petula Clark",
+      "has_synced": true,
+      "path": "select/12_Don’t_Sleep_In_the_Subway_Petula_Clark.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Down In The Subway (Extended Single Version)",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/13_Down_In_The_Subway_(Extended_Single_Version)_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Fall Asleep On The Subway",
+      "artist": "Less Than Jake",
+      "has_synced": false,
+      "path": "select/14_Don't_Fall_Asleep_On_The_Subway_Less_Than_Jake.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Subway",
+      "artist": "Chappell Roan",
+      "has_synced": false,
+      "path": "select/pl_01_The_Subway_Chappell_Roan.txt"
+    }
+  ]
+}
